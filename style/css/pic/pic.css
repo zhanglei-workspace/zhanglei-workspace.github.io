@@ -1,0 +1,7 @@
+/****/
+.Dcolor{
+	color: #4A766E ;
+	font-size: inherit;
+	/*文本阴影*/  
+            text-shadow: 0 0 30px blue, 0 0 30px red; 
+}
